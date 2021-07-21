@@ -1,0 +1,90 @@
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_1.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_10.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_100.jpg 291,309,381,389,0 435,546,654,692,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_102.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_103.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_104.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_105.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_106.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_107.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_108.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_109.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_11.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_110.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_111.jpg 291,309,381,389,0 396,507,593,671,0 47,511,243,703,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_13.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_14.jpg 291,309,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_15.jpg 295,311,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_16.jpg 295,311,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_17.jpg 295,311,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_18.jpg 295,311,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_19.jpg 295,311,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_2.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_20.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_21.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_22.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_23.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_24.jpg 294,312,380,388,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_25.jpg 295,311,377,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_27.jpg 296,310,378,386,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_28.jpg 295,310,378,386,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_29.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_3.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_30.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_31.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_32.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_33.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_34.jpg 295,310,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_35.jpg 293,310,378,391,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_36.jpg 293,310,378,391,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_37.jpg 293,310,378,391,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_38.jpg 293,310,378,391,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_39.jpg 294,311,383,385,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_4.jpg 5,478,103,606,0 294,311,383,385,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_40.jpg 4,326,92,401,0 294,311,383,385,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_41.jpg 2,327,91,395,0 294,311,383,385,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_42.jpg 1,323,98,395,0 294,311,383,385,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_44.jpg 297,313,378,390,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_45.jpg 295,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_46.jpg 291,312,381,389,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_47.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_48.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_49.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_5.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_50.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_51.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_53.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_54.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_55.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_56.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_57.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_59.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_6.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_60.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_61.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_63.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_64.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_65.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_66.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_67.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_68.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_69.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_70.jpg 296,309,378,387,0 409,282,483,329,2
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_71.jpg 296,309,378,387,0 465,332,563,435,2
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_72.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_73.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_74.jpg 296,309,378,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_75.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_76.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_77.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_79.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_8.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_80.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_87.jpg 294,309,379,387,0 61,322,102,365,2
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_88.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_89.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_9.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_91.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_92.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_93.jpg 294,309,379,387,0
+/home/data/133/vehicle_public_roads_avenue_0001_train_p_day_20210416_94.jpg 294,309,379,387,0
